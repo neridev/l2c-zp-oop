@@ -1,0 +1,10 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Testing\\": "src"
+        }
+    },
+    "require": {
+        "filp/whoops": "^2.7"
+    }
+}
