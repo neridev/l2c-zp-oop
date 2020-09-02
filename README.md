@@ -1,2 +1,2 @@
-# l2c-zp-oop
-Learn2code - zaklady programovania a OOP / PHP
+# L2C ZP + OOP
+Learn2code - basics of programming and OOP / PHP
